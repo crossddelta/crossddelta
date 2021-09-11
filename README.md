@@ -1,7 +1,7 @@
 ## Hello friend.
 
 - 🌱 Currently learning C, Java and Python, as well as the basics of Cybersecurity.
-- 😄 Pronouns: he/him.
+- :robot:	 Pronouns: he/him.
 
 <a href="https://github.com/crossddelta/github-readme-stats">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=crossddelta&show_icons=true&theme=dracula"/>
