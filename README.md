@@ -1,6 +1,6 @@
-## Hello there, I'm Danilo. 👋
+## Hello friend.
 
-- 🌱 I’m currently learning C, Java and Python, as well as the basics of Cybersecurity.
+- 🌱 Currently learning C, Java and Python, as well as the basics of Cybersecurity.
 - 😄 Pronouns: he/him.
 
 <a href="https://github.com/crossddelta/github-readme-stats">
