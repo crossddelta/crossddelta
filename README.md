@@ -11,7 +11,7 @@
 </a>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="cross-C" height="50" width="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-arch-linux-composed-of-nonfree-and-open-source-software-logo-shadow-tal-revivo.png">
+  <img align="center" alt="cross-C" height="50" width="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-arch-linux-composed-of-nonfree-and-open-source-software-logo-shadow-tal-revivo.png">
   <img align="center" alt="cross-C" height="50" width="50" src="https://img.icons8.com/color/144/000000/kali-linux.png">
   <img align="center" alt="cross-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="cross-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
