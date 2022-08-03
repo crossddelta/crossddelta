@@ -1,6 +1,6 @@
 ## Hello friend.
 
-- 🌱 Currently learning C and Python, as well as the basics of Cybersecurity.
+- 🌱 Currently learning Python and Bash Script, as well as the basics of Cybersecurity.
 - :robot:	 Pronouns: he/him.
 
 <a href="https://github.com/crossddelta/github-readme-stats">
