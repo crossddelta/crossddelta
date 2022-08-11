@@ -17,7 +17,7 @@
   <img align="center" alt="cross-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="cross-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="cross-C" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bash_Logo_White.svg/512px-Bash_Logo_White.svg.png?20180723054244">
-  <img align="center" alt="cross-C" height="50" width="50" src="https://img.icons8.com/fluency/344/powershell.png">
+  <img align="center" alt="cross-C" height="50" width="50" src="https://www.svgrepo.com/show/373992/powershell.svg">
   
   
 
