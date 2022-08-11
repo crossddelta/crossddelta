@@ -1,6 +1,6 @@
 ## Hello friend.
 
-- 🌱 Currently learning Python and Bash Script, as well as the basics of Cybersecurity.
+- 🌱 Currently learning Python, Bash Script and PowerShell, as well as Cybersecurity subjects.
 - :robot:	 Pronouns: he/him.
 
 <a href="https://github.com/crossddelta/github-readme-stats">
@@ -18,6 +18,9 @@
   <img align="center" alt="cross-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="cross-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="cross-C" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bash_Logo_White.svg/512px-Bash_Logo_White.svg.png?20180723054244">
+  <img align="center" alt="cross-C" height="50" width="50" src="https://img.icons8.com/fluency/344/powershell.png">
+  
+  
 
 ##
   
