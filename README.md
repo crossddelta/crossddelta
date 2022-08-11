@@ -14,7 +14,6 @@
   <img align="center" alt="cross-C" height="50" width="50" src="https://img.icons8.com/color/48/000000/linux--v1.png">
   <img align="center" alt="cross-C" height="50" width="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-arch-linux-composed-of-nonfree-and-open-source-software-logo-shadow-tal-revivo.png">
   <img align="center" alt="cross-C" height="50" width="50" src="https://img.icons8.com/color/144/000000/kali-linux.png">
-  <img align="center" alt="cross-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="cross-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="cross-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="cross-C" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bash_Logo_White.svg/512px-Bash_Logo_White.svg.png?20180723054244">
