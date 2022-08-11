@@ -17,7 +17,7 @@
   <img align="center" alt="cross-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="cross-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="cross-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="cross-C" height="50" width="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg">
+  <img align="center" alt="cross-C" height="50" width="50" src="https://www.svgrepo.com/show/353475/bash.svg">
 
 ##
   
